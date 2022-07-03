@@ -513,6 +513,10 @@ footer i{
     width:100%;
     max-width:100%;
   }
+
+  section h2{
+    display:none;
+  }
   
   .section1{
     display:block;
