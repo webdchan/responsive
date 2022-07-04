@@ -125,6 +125,10 @@ section{
   margin:0 auto;
 }
 
+section h2{
+  display:none;
+}
+
 .section1{
   display:flex;
 }
